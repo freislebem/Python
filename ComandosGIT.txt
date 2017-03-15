@@ -1,0 +1,5 @@
+GITHUB - Comandos
+
+git add * (* todos ou o nome do arquivo individual)
+git commit -m "COmentario sobre o commit"
+git push origin master
