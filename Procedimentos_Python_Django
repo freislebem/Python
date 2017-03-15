@@ -1,0 +1,12 @@
+Criar ambiente virtual:
+virtualenv nomeDoAmbiente
+
+- Ativar o ambiente: source bin/activate
+- Instalar o Django (pip install django) obs: criar dentro do ambiente
+- Criar projeto django: django-admin startproject django_project
+- Testar ambiente (entrando no projeto criado): python manage.py runserver
+- CRTL C para parar o server
+
+OBS: A partir do projeto, pode ser criado apps (como foi criado o blog), e chama-los quando quiser
+
+- Todo app deve ser informado no arquivo settings em "INSTALLED APPS"
