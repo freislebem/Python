@@ -3,3 +3,5 @@ GITHUB - Comandos
 git add * (* todos ou o nome do arquivo individual)
 git commit -m "COmentario sobre o commit"
 git push origin master
+
+git clone https://github.com/freislebem/django_course.git (atenção pra não duplicar a pasta)
